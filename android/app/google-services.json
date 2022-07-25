@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793009475387",
+    "project_id": "fir-app-81a1a",
+    "storage_bucket": "fir-app-81a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793009475387:android:0d6ff66b90a7d2ccd3311e",
+        "android_client_info": {
+          "package_name": "com.example.neumorphism_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793009475387-uvhtsn77c89j0ll8ghktrp9s8iavm397.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkvYtkBr9441qFHUKmE7R8MABeZfaXlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793009475387-uvhtsn77c89j0ll8ghktrp9s8iavm397.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
